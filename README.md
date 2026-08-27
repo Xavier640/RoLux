@@ -1,2 +1,2 @@
 # RoLux
-Romania-based OS running in web
+Romania-inspired OS running in web
